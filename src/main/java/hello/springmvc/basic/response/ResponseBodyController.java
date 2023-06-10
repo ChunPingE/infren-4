@@ -51,4 +51,5 @@ public class ResponseBodyController {
 		helloData.setAge(20);
 		return helloData;
 	}
+
 }
